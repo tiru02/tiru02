@@ -18,7 +18,7 @@ I build modern, high-performance web applications and custom server frameworks. 
 * **👀 Interests:** Full Stack Web Development, Backend Architecture, AI/ML Integration, Cloud Deployment
 * **🌱 Currently Learning:** Advanced TypeScript, Database Optimization, DevOps, Linux System Administration
 * **💞️ Collaboration:** Open to contributing to full-stack projects and open-source tools
-* **📫 Contact:** **vikat0369@gmail.com** | Instagram: **@ram_02.12**
+* **📫 Contact:** **vikat0369@gmail.com** | Instagram: **@tiru._1**
 
 ---
 
