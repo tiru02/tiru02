@@ -4,15 +4,21 @@
 🎓 B.Tech CSE (Big Data Analytics), Amrita Sai Institute — *Class of 2026*
 
 ---
+## 📊 GitHub Analytics
 
-## 📊 GitHub Overview
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiru02\&show_icons=true\&theme=default\&count_private=true\&hide_border=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&text_color=333&icon_color=0A66C2" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02\&layout=compact\&theme=default\&hide_border=true)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=333" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tiru02\&theme=default\&hide_border=true)
+</div>
 
+<div align="center">
+
+<img height="160em" src="https://streak-stats.demolab.com?user=tiru02&theme=transparent&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
+
+</div>
 ---
 
 ## 🚀 Professional Summary
