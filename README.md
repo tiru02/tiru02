@@ -40,18 +40,6 @@ I design and build **high-performance backend systems** and full-stack applicati
 A custom server framework built from the ground up focusing on maximum throughput and minimal latency. 
 → *Node.js • Worker Threads • Low-level Buffer Management*
 
-### 🔹 ResVal — ATS Resume Analyzer
-An AI-powered system designed to parse, evaluate, and score resumes against ATS standards.
-→ *Python • Flask • pdfplumber • spaCy • Tailwind*
-
-### 🔹 RS Studio — Project Management Platform
-A comprehensive team collaboration, task tracking, and analytics system.
-→ *Next.js • TypeScript • MongoDB*
-
-### 🔹 NextJS Commerce — E-Commerce Platform
-A highly scalable commerce solution with optimized rendering and state management.
-→ *Next.js • React • Tailwind*
-
 ### 🔹 Personal Portfolio
 My personal corner on the web. Check it out at [vikat.me](https://vikat.me).
 → *Vue.js • Vite*
