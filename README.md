@@ -1,76 +1,134 @@
 # 👋 Hi, I'm Tiru
 
-**Full Stack Developer | B.Tech CSE (Big Data Analytics) @ Amrita Sai Institute**
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/Vue-Advanced-green?style=flat-square&logo=vue.js)
-![Flask](https://img.shields.io/badge/Flask-Expert-black?style=flat-square&logo=flask)
+**Full Stack Developer | Backend-Focused Engineer**
+🎓 B.Tech CSE (Big Data Analytics), Amrita Sai Institute — *Class of 2026*
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Overview
 
-I build modern, high-performance web applications and custom server frameworks. Currently finishing my B.Tech in CSE (Class of 2026), I specialize in turning complex problems into elegant, scalable solutions using cutting-edge web technologies and data processing.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiru02\&show_icons=true\&theme=default\&count_private=true\&hide_border=true)
 
-* **👀 Interests:** Full Stack Web Development, Backend Architecture, AI/ML Integration, Cloud Deployment
-* **🌱 Currently Learning:** Advanced TypeScript, Database Optimization, DevOps, Linux System Administration
-* **💞️ Collaboration:** Open to contributing to full-stack projects and open-source tools
-* **📫 Contact:** **vikat0369@gmail.com** | Instagram: **@tiru._1**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02\&layout=compact\&theme=default\&hide_border=true)
 
----
-
-## 📂 Featured Projects
-
-### 🎓 [ResVal](https://github.com/tiru02/resval) | ATS Resume Analyzer
-An intelligent resume analyzer that evaluates profiles against 7 Applicant Tracking System (ATS) standards.
-* **Tech Stack:** Flask, PDFMiner, Tailwind CSS
-* **Highlights:** Automated ATS scoring, skill matching algorithms, and job description analysis.
-
-### 📊 [RS Studio](https://github.com/tiru02/rs_studio) | Project Management Platform
-A comprehensive task management system tailored for team collaboration and tracking.
-* **Tech Stack:** Next.js, React, TypeScript, MongoDB, Tailwind CSS
-* **Highlights:** Task assignment workflows, attendance tracking, and team management dashboards.
-
-### 🎨 [Portfolio](https://github.com/tiru02/portfolio) | Personal Website
-A highly interactive, modern portfolio with smooth animations.
-* **Tech Stack:** Vue 3, Vite, Tailwind CSS
-* **Status:** ✅ Live at [vikat.me](https://vikat.me).
-
-### 🛍️ [NextJS Commerce](https://github.com/tiru02/nextjs-commerce) | E-Commerce Platform
-A blazing-fast, modern e-commerce platform optimized with Turbopack.
-* **Tech Stack:** Next.js 15, React 19, Tailwind CSS, TypeScript
-
-### 🎭 [Magic Portfolio](https://github.com/tiru02/magic-portfolio-for-next-js) | Template
-A feature-rich, customizable portfolio template designed for developers.
-* **Tech Stack:** Next.js 14, MDX, React Icons, SASS
+![GitHub Streak](https://streak-stats.demolab.com?user=tiru02\&theme=default\&hide_border=true)
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🚀 Professional Summary
 
-* **Backend:** Node.js, Flask, Django
-* **Frontend:** React, Vue.js, Next.js, Vite, Tailwind CSS
-* **Databases:** MongoDB, SQLAlchemy, PostgreSQL
-* **Tools & Infrastructure:** Git, Docker, Vercel, AWS EC2, Linux
+Full stack developer with a strong specialization in **backend systems, performance optimization, and scalable architecture design**.
 
----
+Over the past 3+ years, I have built and refined multiple production-grade applications, including a **custom Node.js HTTP framework capable of handling high request throughput (~300K+ req/sec)**.
 
-## 📊 GitHub Statistics
-
-![Tiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=radical&count_private=true)
-
-![Tiru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=radical)
+I focus on writing **efficient, maintainable code** and designing systems that scale reliably.
 
 ---
 
-## 🌐 Let's Connect
+## 🛠️ Technical Skills
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikat0369@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tiru02)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ram_02.12)
+### Backend Engineering
+
+* Node.js (Custom HTTP Framework Development)
+* Flask, Django
+* REST APIs, Middleware Architecture, Routing Systems
+
+### Frontend Development
+
+* React, Next.js, Vue.js
+* Tailwind CSS, Vite
+
+### Databases
+
+* MongoDB, PostgreSQL
+* SQLAlchemy, Query Optimization
+
+### DevOps & Tools
+
+* Docker, AWS EC2, Vercel
+* Git, Linux System Administration
 
 ---
-*Made with ❤️ by Tiru*
+
+## 📂 Key Projects
+
+### 🔹 ResVal — ATS Resume Analyzer
+
+🔗 https://github.com/tiru02/resval
+
+Developed an intelligent resume evaluation system aligned with ATS standards.
+
+* Automated resume scoring system
+* Skill extraction and job matching
+* PDF parsing and structured analysis
+
+**Tech Stack:** Flask, PDFMiner, Tailwind CSS
+
+---
+
+### 🔹 RS Studio — Project Management Platform
+
+🔗 https://github.com/tiru02/rs_studio
+
+Built a scalable team collaboration and task management platform.
+
+* Task assignment and tracking
+* Team and attendance management
+* Dashboard analytics system
+
+**Tech Stack:** Next.js, TypeScript, MongoDB
+
+---
+
+### 🔹 NextJS Commerce — E-Commerce Platform
+
+🔗 https://github.com/tiru02/nextjs-commerce
+
+Designed a high-performance e-commerce system with modern architecture.
+
+* Optimized rendering using Turbopack
+* Scalable and modular structure
+* Clean UI implementation
+
+**Tech Stack:** Next.js 15, React 19, Tailwind CSS
+
+---
+
+### 🔹 Portfolio Website
+
+🌐 https://vikat.me
+🔗 https://github.com/tiru02/portfolio
+
+Interactive developer portfolio with modern UI and animations.
+
+**Tech Stack:** Vue 3, Vite, Tailwind CSS
+
+---
+
+### 🔹 Magic Portfolio — Developer Template
+
+🔗 https://github.com/tiru02/magic-portfolio-for-next-js
+
+Reusable and customizable portfolio template for developers.
+
+**Tech Stack:** Next.js, MDX, SASS
+
+---
+
+## 🌐 Contact & Profiles
+
+* 📧 Email: **[vikat0369@gmail.com](mailto:vikat0369@gmail.com)**
+* 💻 GitHub: https://github.com/tiru02
+* 📸 Instagram: https://instagram.com/ram_02.12
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=tiru02\&color=blue\&style=flat)
+
+---
+
+## 📌 Statement
+
+> I focus on building **systems that are efficient, scalable, and production-ready** — not just prototypes.
