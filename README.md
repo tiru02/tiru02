@@ -37,7 +37,7 @@ A comprehensive task management system tailored for team collaboration and track
 ### 🎨 [Portfolio](https://github.com/tiru02/portfolio) | Personal Website
 A highly interactive, modern portfolio with smooth animations.
 * **Tech Stack:** Vue 3, Vite, Tailwind CSS
-* **Status:** ✅ Live at [vikat.me](https://vikat.me) & [portfolio.vikat.me](https://portfolio.vikat.me)
+* **Status:** ✅ Live at [vikat.me](https://vikat.me).
 
 ### 🛍️ [NextJS Commerce](https://github.com/tiru02/nextjs-commerce) | E-Commerce Platform
 A blazing-fast, modern e-commerce platform optimized with Turbopack.
