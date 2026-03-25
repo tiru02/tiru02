@@ -42,7 +42,7 @@ A custom server framework built from the ground up focusing on maximum throughpu
 
 ### 🔹 Personal Portfolio
 My personal corner on the web. Check it out at [vikat.me](https://vikat.me).
-→ *Vue.js • Vite*
+→ *Mern-Stack*
 
 ---
 
