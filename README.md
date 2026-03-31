@@ -21,7 +21,7 @@ My work focuses on deeply understanding **memory management, concurrency, and ne
 ---
 
 ## ⚛️ Current Work  
-- **Atomic** → Custom programming language (from scratch)  
+- **Atomic** → Custom programming language  
 - **Redline** → High-performance Node.js HTTP framework (~300K+ req/sec)  
 
 ---
@@ -32,8 +32,8 @@ My work focuses on deeply understanding **memory management, concurrency, and ne
 |----------------|-------------|
 | **Languages**  | Node.js, Python, JavaScript/TypeScript, Rust (Learning) |
 | **Backend**    | Express, Flask, Django, Custom Redline Framework |
-| **Data**       | PostgreSQL, MongoDB, Big Data Pipelines |
-| **Infra**      | AWS (EC2), Docker, Linux (Ubuntu/Debian), Git |
+| **Data**       | PostgreSQL, MongoDB |
+| **Infra**      | AWS (EC2), Docker, Linux |
 | **Frontend**   | React, Next.js, Vue.js, Tailwind CSS |
 
 ---
@@ -41,47 +41,44 @@ My work focuses on deeply understanding **memory management, concurrency, and ne
 ## 📂 Featured R&D  
 
 ### 🔴 Redline — High-Throughput HTTP Framework  
-- Built using **Node.js worker threads + low-level buffer control**  
+- Worker threads + buffer-level optimization  
 - Eliminates middleware overhead  
-- ⚡ Achieved **300K+ requests/sec**
+- ⚡ ~300K+ req/sec  
 
 ---
 
 ### ⚛️ Atomic — Programming Language  
-- Focus: **Lexing, Parsing, AST Design**  
-- Goal: Understand **compiler-level efficiency & execution models**
+- Lexing, Parsing, AST  
+- Compiler-level exploration  
 
 ---
 
 ### 📄 AI Resume Validator  
-- Parses and validates resumes against industry standards  
-- Backend: **Flask (Python)**  
-- Frontend: Modern web UI  
+- Flask backend + modern UI  
+- Resume parsing + validation  
 
 ---
 
 ## 📊 Engineering Metrics  
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🌐 Digital Footprint  
 
-- 🌍 Portfolio → https://vikat.me  
-- 💻 GitHub → https://github.com/tiru02  
-- 📧 Email → vikat0369@gmail.com  
-- 📸 Instagram → @tiru._1  
+- 🌍 https://vikat.me  
+- 💻 https://github.com/tiru02  
+- 📧 vikat0369@gmail.com  
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiru02&color=7aa2f7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=tiru02&color=blue&style=flat-square" />
   <br/><br/>
   <strong>"I build systems that scale, not just apps."</strong>
-</div># 🚀 Tiru | Backend Systems Engineer  
-
+</div>
