@@ -1,99 +1,171 @@
-🚀 Tiru | Backend Systems Engineer
+# 🚀 Tiru | Backend Systems Engineer  
 
-B.Tech CSE (Big Data Analytics) @ ASIST '26
+**B.Tech CSE (Big Data Analytics) @ ASIST '26**  
 
-Specializing in high-throughput infrastructure, custom compilers, and scalable system design.
+Specializing in **high-throughput infrastructure, custom compilers, and scalable system design.**
 
-⚡ The Philosophy
+---
 
-I don't just use frameworks; I build them. My work focuses on understanding the underlying mechanics of memory management, concurrency, and network protocols to build systems that handle massive scale with minimal latency.
+## ⚡ Philosophy  
+I don’t just use frameworks — I build them.  
 
-🧠 Core Focus: Distributed Systems & Performance Optimization.
+My work focuses on deeply understanding **memory management, concurrency, and network protocols** to engineer systems that operate at **massive scale with minimal latency**.
 
-⚛️ Current Project: Atomic, a custom programming language built from scratch.
+---
 
-🔴 High-Perf: Redline, a Node.js HTTP framework reaching ~300K+ req/sec.
+## 🧠 Core Focus  
+- Distributed Systems  
+- Performance Optimization  
+- Low-Level System Design  
 
-🛠️ Toolbelt
+---
 
-Category
+## ⚛️ Current Work  
+- **Atomic** → Custom programming language (from scratch)  
+- **Redline** → High-performance Node.js HTTP framework (~300K+ req/sec)  
 
-Technologies
+---
 
-Languages
+## 🛠️ Tech Stack  
 
-Node.js (Runtime), Python, Rust (Learning), JavaScript/TypeScript
+| Category        | Technologies |
+|----------------|-------------|
+| **Languages**  | Node.js, Python, JavaScript/TypeScript, Rust (Learning) |
+| **Backend**    | Express, Flask, Django, Custom Redline Framework |
+| **Data**       | PostgreSQL, MongoDB, Big Data Pipelines |
+| **Infra**      | AWS (EC2), Docker, Linux (Ubuntu/Debian), Git |
+| **Frontend**   | React, Next.js, Vue.js, Tailwind CSS |
 
-Backend
+---
 
-Express, Flask, Django, Custom Redline Framework
+## 📂 Featured R&D  
 
-Data & Storage
+### 🔴 Redline — High-Throughput HTTP Framework  
+- Built using **Node.js worker threads + low-level buffer control**  
+- Eliminates middleware overhead  
+- ⚡ Achieved **300K+ requests/sec**
 
-PostgreSQL, MongoDB, Big Data Analytics Pipelines
+---
 
-Infrastructure
+### ⚛️ Atomic — Programming Language  
+- Focus: **Lexing, Parsing, AST Design**  
+- Goal: Understand **compiler-level efficiency & execution models**
 
-AWS (EC2), Docker, Linux (Ubuntu/Debian), Git
+---
 
-Frontend
+### 📄 AI Resume Validator  
+- Parses and validates resumes against industry standards  
+- Backend: **Flask (Python)**  
+- Frontend: Modern web UI  
 
-Vue.js, React, Next.js, Tailwind CSS
+---
 
-📂 Featured Research & Development
-
-🔴 Redline (High-Throughput HTTP Framework)
-
-Engine: Built on top of Node.js using worker threads and low-level buffer management.
-
-Outcome: Achieved 300K+ req/sec by eliminating common middleware overhead.
-
-⚛️ Atomic Programming Language
-
-Theory: Exploring lexing, parsing, and abstract syntax trees (AST).
-
-Implementation: A custom language designed to understand compiler-level efficiency.
-
-📄 AI Resume Validator
-
-Function: Automated parsing and validation of industry-standard resumes.
-
-Stack: Python (Flask) for heavy-lifting logic + Modern Web Frontend.
-
-📊 Engineering Metrics
+## 📊 Engineering Metrics  
 
 <div align="center">
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtiru02%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D7aa2f7%26icon_color%3D7aa2f7%26text_color%3D9ece6a" />
-<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtiru02%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D7aa2f7%26text_color%3D9ece6a" />
-
-
-
-
-
-<img width="100%" src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dtiru02%26theme%3Dtokyonight%26hide_border%3Dtrue%26stroke%3D7aa2f7%26ring%3D7aa2f7%26fire%3D7aa2f7%26currStreakLabel%3D9ece6a" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" />
 </div>
 
-🌐 Digital Footprint
+---
 
-🌍 Portfolio: vikat.me
+## 🌐 Digital Footprint  
 
-💻 GitHub: @tiru02
+- 🌍 Portfolio → https://vikat.me  
+- 💻 GitHub → https://github.com/tiru02  
+- 📧 Email → vikat0369@gmail.com  
+- 📸 Instagram → @tiru._1  
 
-📧 Contact: vikat0369@gmail.com
-
-📸 Social: @tiru._1
+---
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiru02&color=7aa2f7&style=flat-square" />
+  <br/><br/>
+  <strong>"I build systems that scale, not just apps."</strong>
+</div># 🚀 Tiru | Backend Systems Engineer  
 
+**B.Tech CSE (Big Data Analytics) @ ASIST '26**  
 
+Specializing in **high-throughput infrastructure, custom compilers, and scalable system design.**
 
+---
 
+## ⚡ Philosophy  
+I don’t just use frameworks — I build them.  
 
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtiru02%26color%3D7aa2f7%26style%3Dflat-square" alt="Profile Views" />
+My work focuses on deeply understanding **memory management, concurrency, and network protocols** to engineer systems that operate at **massive scale with minimal latency**.
 
+---
 
+## 🧠 Core Focus  
+- Distributed Systems  
+- Performance Optimization  
+- Low-Level System Design  
 
+---
 
+## ⚛️ Current Work  
+- **Atomic** → Custom programming language (from scratch)  
+- **Redline** → High-performance Node.js HTTP framework (~300K+ req/sec)  
 
-<strong>"I build systems that scale, not just apps."</strong>
+---
+
+## 🛠️ Tech Stack  
+
+| Category        | Technologies |
+|----------------|-------------|
+| **Languages**  | Node.js, Python, JavaScript/TypeScript, Rust (Learning) |
+| **Backend**    | Express, Flask, Django, Custom Redline Framework |
+| **Data**       | PostgreSQL, MongoDB, Big Data Pipelines |
+| **Infra**      | AWS (EC2), Docker, Linux (Ubuntu/Debian), Git |
+| **Frontend**   | React, Next.js, Vue.js, Tailwind CSS |
+
+---
+
+## 📂 Featured R&D  
+
+### 🔴 Redline — High-Throughput HTTP Framework  
+- Built using **Node.js worker threads + low-level buffer control**  
+- Eliminates middleware overhead  
+- ⚡ Achieved **300K+ requests/sec**
+
+---
+
+### ⚛️ Atomic — Programming Language  
+- Focus: **Lexing, Parsing, AST Design**  
+- Goal: Understand **compiler-level efficiency & execution models**
+
+---
+
+### 📄 AI Resume Validator  
+- Parses and validates resumes against industry standards  
+- Backend: **Flask (Python)**  
+- Frontend: Modern web UI  
+
+---
+
+## 📊 Engineering Metrics  
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Digital Footprint  
+
+- 🌍 Portfolio → https://vikat.me  
+- 💻 GitHub → https://github.com/tiru02  
+- 📧 Email → vikat0369@gmail.com  
+- 📸 Instagram → @tiru._1  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiru02&color=7aa2f7&style=flat-square" />
+  <br/><br/>
+  <strong>"I build systems that scale, not just apps."</strong>
 </div>
