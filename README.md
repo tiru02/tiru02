@@ -62,8 +62,8 @@ My work focuses on deeply understanding **memory management, concurrency, and ne
 ## 📊 Engineering Metrics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -74,6 +74,7 @@ My work focuses on deeply understanding **memory management, concurrency, and ne
 - 🌍 https://vikat.me  
 - 💻 https://github.com/tiru02  
 - 📧 vikat0369@gmail.com  
+- 📸 Instagram → @tiru._1  
 
 ---
 
