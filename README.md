@@ -1,1 +1,99 @@
-🚀 Tiru | Backend Systems & Big DataB.Tech CSE (Big Data Analytics) @ ASIST '26 Building high-throughput systems, custom compilers, and scalable architectures.⚡ Technical SummaryI specialize in performance-critical backend infrastructure and Big Data pipelines. I don’t just use frameworks; I build them to understand the underlying mechanics of memory management, concurrency, and network protocols.Core Focus: Distributed Systems, Low-level Node.js, and Database Optimization.Current Research: Developing Atomic, a custom programming language, and Redline, a high-performance server framework.Infrastructure: Scalable deployments on AWS (EC2) and Linux-based environments.🛠️ ToolbeltCategoryTechnologiesBackendNode.js (High-perf), Python (Flask/Django), Rust (Learning)FrontendVue.js, Vite, React, Tailwind CSSData & StoragePostgreSQL, MongoDB, Big Data AnalyticsDevOpsDocker, Linux Admin, AWS EC2, Git📂 Key Projects🔴 Redline (formerly Red Server)A custom Node.js HTTP framework engineered for maximum throughput.Performance: ~300K+ req/sec using Worker Threads and Buffer pooling.Focus: Minimal abstraction, zero-dependency routing, and high concurrency.⚛️ Atomic Programming LanguageA custom-built programming language designed to explore compiler theory and execution efficiency.Stack: Node.js / JavaScript logic for parsing and lexing.📄 AI Resume ValidatorFull-stack application for automated resume parsing and validation.Stack: Python (Flask), HTML/CSS/JS.📊 GitHub Pulse<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" /><img width="100%" src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" /></div>🌐 Connect & FootprintPortfolio: vikat.meGitHub: @tiru-chinnuEmail: vikat0369@gmail.com"I build systems that scale, not just apps."
+🚀 Tiru | Backend Systems Engineer
+
+B.Tech CSE (Big Data Analytics) @ ASIST '26
+
+Specializing in high-throughput infrastructure, custom compilers, and scalable system design.
+
+⚡ The Philosophy
+
+I don't just use frameworks; I build them. My work focuses on understanding the underlying mechanics of memory management, concurrency, and network protocols to build systems that handle massive scale with minimal latency.
+
+🧠 Core Focus: Distributed Systems & Performance Optimization.
+
+⚛️ Current Project: Atomic, a custom programming language built from scratch.
+
+🔴 High-Perf: Redline, a Node.js HTTP framework reaching ~300K+ req/sec.
+
+🛠️ Toolbelt
+
+Category
+
+Technologies
+
+Languages
+
+Node.js (Runtime), Python, Rust (Learning), JavaScript/TypeScript
+
+Backend
+
+Express, Flask, Django, Custom Redline Framework
+
+Data & Storage
+
+PostgreSQL, MongoDB, Big Data Analytics Pipelines
+
+Infrastructure
+
+AWS (EC2), Docker, Linux (Ubuntu/Debian), Git
+
+Frontend
+
+Vue.js, React, Next.js, Tailwind CSS
+
+📂 Featured Research & Development
+
+🔴 Redline (High-Throughput HTTP Framework)
+
+Engine: Built on top of Node.js using worker threads and low-level buffer management.
+
+Outcome: Achieved 300K+ req/sec by eliminating common middleware overhead.
+
+⚛️ Atomic Programming Language
+
+Theory: Exploring lexing, parsing, and abstract syntax trees (AST).
+
+Implementation: A custom language designed to understand compiler-level efficiency.
+
+📄 AI Resume Validator
+
+Function: Automated parsing and validation of industry-standard resumes.
+
+Stack: Python (Flask) for heavy-lifting logic + Modern Web Frontend.
+
+📊 Engineering Metrics
+
+<div align="center">
+<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtiru02%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D7aa2f7%26icon_color%3D7aa2f7%26text_color%3D9ece6a" />
+<img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtiru02%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26title_color%3D7aa2f7%26text_color%3D9ece6a" />
+
+
+
+
+
+<img width="100%" src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dtiru02%26theme%3Dtokyonight%26hide_border%3Dtrue%26stroke%3D7aa2f7%26ring%3D7aa2f7%26fire%3D7aa2f7%26currStreakLabel%3D9ece6a" />
+</div>
+
+🌐 Digital Footprint
+
+🌍 Portfolio: vikat.me
+
+💻 GitHub: @tiru02
+
+📧 Contact: vikat0369@gmail.com
+
+📸 Social: @tiru._1
+
+<div align="center">
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dtiru02%26color%3D7aa2f7%26style%3Dflat-square" alt="Profile Views" />
+
+
+
+
+
+<strong>"I build systems that scale, not just apps."</strong>
+</div>
