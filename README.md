@@ -1,85 +1,90 @@
-# 🚀 Tiru | Backend Systems Engineer  
+# 👋 Hey, I'm Tiru
 
-**B.Tech CSE (Big Data Analytics) @ ASIST '26**  
+**Backend Systems Engineer • B.Tech CSE (Big Data Analytics) @ ASIST '26**
 
-Specializing in **high-throughput infrastructure, custom compilers, and scalable system design.**
-
----
-
-## ⚡ Philosophy  
-I don’t just use frameworks — I build them.  
-
-My work focuses on deeply understanding **memory management, concurrency, and network protocols** to engineer systems that operate at **massive scale with minimal latency**.
+I enjoy building backend infrastructure from scratch—HTTP servers, runtimes, parsers, and systems that prioritize performance over abstraction. Most of my work lives close to the network stack, memory, and concurrency rather than traditional CRUD applications.
 
 ---
 
-## 🧠 Core Focus  
-- Distributed Systems  
-- Performance Optimization  
-- Low-Level System Design  
+## ⚡ What I'm Building
+
+### 🔴 Redline
+A high-performance HTTP framework built on Node.js without Express.
+
+- Optimized routing and static file serving.
+- File caching and worker-based concurrency.
+- Benchmarked at **300K+ requests/sec** in local load tests.
+
+### ⚛️ Atomic
+A programming language built for learning compiler internals.
+
+- Lexer
+- Parser
+- AST generation
+- Exploring compiler and runtime design.
+
+### 📄 AI Resume Validator
+A Flask-based application that parses resumes and validates them against job requirements using AI-assisted analysis.
 
 ---
 
-## ⚛️ Current Work  
-- **Atomic** → Custom programming language  
-- **Redline** → High-performance Node.js HTTP framework (~300K+ req/sec)  
+## 🧠 Areas I Like Working In
+
+- Backend Systems
+- Distributed Systems
+- Network Programming
+- Performance Optimization
+- Compiler & Runtime Design
+- Linux Internals
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack
 
-| Category        | Technologies |
-|----------------|-------------|
-| **Languages**  | Node.js, Python, JavaScript/TypeScript, Rust (Learning) |
-| **Backend**    | Express, Flask, Django, Custom Redline Framework |
-| **Data**       | PostgreSQL, MongoDB |
-| **Infra**      | AWS (EC2), Docker, Linux |
-| **Frontend**   | React, Next.js, Vue.js, Tailwind CSS |
-
----
-
-## 📂 Featured R&D  
-
-### 🔴 Redline — High-Throughput HTTP Framework  
-- Worker threads + buffer-level optimization  
-- Eliminates middleware overhead  
-- ⚡ ~300K+ req/sec  
+| **Category** | **Technologies** |
+|--------------|------------------|
+| Languages | JavaScript, TypeScript, Node.js, Python, Rust *(learning)* |
+| Backend | Redline, Express, Flask, Django |
+| Databases | PostgreSQL, MongoDB |
+| Infrastructure | Linux, Docker, AWS EC2 |
+| Frontend | React, Next.js, Vue.js, Tailwind CSS |
 
 ---
 
-### ⚛️ Atomic — Programming Language  
-- Lexing, Parsing, AST  
-- Compiler-level exploration  
+## 🚀 Current Focus
+
+- Improving **Redline** with lower-latency networking and better worker scheduling.
+- Building the **Atomic** compiler and language tooling.
+- Learning **Rust** for systems programming.
 
 ---
 
-### 📄 AI Resume Validator  
-- Flask backend + modern UI  
-- Resume parsing + validation  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 Engineering Metrics  
+## 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tiru02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tiru02&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=tiru02&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🌐 Digital Footprint  
-
-- 🌍 https://vikat.me  
-- 💻 https://github.com/tiru02  
-- 📧 vikat0369@gmail.com  
-- 📸 Instagram → @tiru._1  
+- 🌍 **Portfolio:** https://vikat.me
+- 💻 **GitHub:** https://github.com/tiru02
+- 📧 **Email:** vikat0369@gmail.com
+- 📸 **Instagram:** @tiru._1
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiru02&color=blue&style=flat-square" />
-  <br/><br/>
-  <strong>"I build systems that scale, not just apps."</strong>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiru02&color=3b82f6&style=flat-square"/>
+</p>
+
+<p align="center">
+  <b>Building systems that are fast, scalable, and easy to understand.</b>
+</p>
